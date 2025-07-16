@@ -13,6 +13,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Upptime-Status
   logoUrl: https://github.com/Jim-Paul/Upptime-Status/blob/master/assets/QUATUMICA%20-%2001%20(1).svg
+  name: Quantumica Status Page
   introTitle: "Welcome to the official status page for **Quantumica** a technology company committed to reliability and performance."
   introMessage: This page provides **real-time** updates on the operational status of our endpoints.
   navbar:
