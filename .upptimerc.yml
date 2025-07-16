@@ -13,9 +13,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Upptime-Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime-Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Quantumica Status Page
+  introTitle: "Welcome to the official status page for **Quantumica** a technology company committed to reliability and performance."
+  introMessage: This page provides **real-time** updates on the operational status of our endpoints.
   navbar:
     - title: Status
       href: /
