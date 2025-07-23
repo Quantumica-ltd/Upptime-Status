@@ -1,22 +1,22 @@
 [
   {
     "name": "Jim Paul",
-    "url": "https://www.jimpaul.ng",
-    "icon": "https://icons.duckduckgo.com/ip3/www.jimpaul.ng.ico",
+    "url": "https://jimpaul.ng",
+    "icon": "https://icons.duckduckgo.com/ip3/jimpaul.ng.ico",
     "slug": "jim-paul",
-    "status": "down",
-    "uptime": "11.75%",
-    "uptimeDay": "11.75%",
-    "uptimeWeek": "11.75%",
-    "uptimeMonth": "11.75%",
-    "uptimeYear": "11.75%",
-    "time": 1521,
-    "timeDay": 1521,
-    "timeWeek": 1521,
-    "timeMonth": 1521,
-    "timeYear": 1521,
+    "status": "up",
+    "uptime": "1.49%",
+    "uptimeDay": "1.49%",
+    "uptimeWeek": "1.49%",
+    "uptimeMonth": "1.49%",
+    "uptimeYear": "1.49%",
+    "time": 1332,
+    "timeDay": 1332,
+    "timeWeek": 1332,
+    "timeMonth": 1332,
+    "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 5
     }
   }
 ]
