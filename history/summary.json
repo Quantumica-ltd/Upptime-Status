@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jimpaul.ng.ico",
     "slug": "jim-paul",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "11.75%",
+    "uptimeDay": "11.75%",
+    "uptimeWeek": "11.75%",
+    "uptimeMonth": "11.75%",
+    "uptimeYear": "11.75%",
     "time": 1521,
     "timeDay": 1521,
     "timeWeek": 1521,
     "timeMonth": 1521,
     "timeYear": 1521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   }
 ]
