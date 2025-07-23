@@ -19,7 +19,7 @@ status-website:
   introMessage: This page provides **real-time** updates on the operational status of our endpoints.
   navbar:
     - title: Status
-      href: /
+      href: https://jim-paul.github.io/Upptime-Status/
     - title: GitHub
       href: https://github.com/Jim-Paul/Upptime-Status
 
