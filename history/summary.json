@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 97,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
-    "dailyMinutesDown": {}
+    "name": "Jimpaul",
+    "url": "https://www.jimpaul.ng",
+    "icon": "https://icons.duckduckgo.com/ip3/www.jimpaul.ng.ico",
+    "slug": "jimpaul",
+    "status": "down",
+    "uptime": "36.78%",
+    "uptimeDay": "36.78%",
+    "uptimeWeek": "36.78%",
+    "uptimeMonth": "36.78%",
+    "uptimeYear": "36.78%",
+    "time": 1940,
+    "timeDay": 1940,
+    "timeWeek": 1940,
+    "timeMonth": 1940,
+    "timeYear": 1940,
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   }
 ]
