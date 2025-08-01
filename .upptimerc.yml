@@ -5,7 +5,8 @@ repo: Upptime-Status # The name of this repository
 sites:
   - name: Jim Paul
     url: https://jimpaul.ng
-  
+  - name: Terrawatt Energy
+    url: https://terrawattenergy.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,8 +15,9 @@ status-website:
   baseUrl: /Upptime-Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Quantumica Status Page
-  introTitle: "Welcome to the official status page for **Quantumica** a technology company committed to reliability and performance."
-  introMessage: This page provides **real-time** updates on the operational status of our endpoints.
+  introTitle: "Welcome to the official status page for **Quantumica**, a forward-thinking company at the intersection of technology and energy."
+  introMessage: "This page offers **real-time insights** into the availability and performance of our platforms."
+
   navbar:
     - title: Status
       href: /
