@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.quantumica.io
   #baseUrl: /Upptime-Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Jim-Paul/Upptime-Status/refs/heads/master/assets/QUATUMICA%2002.png
   name: Quantumica Status Page
   introTitle: "Welcome to the official status page for **Quantumica**, a forward-thinking company at the intersection of technology and energy."
   introMessage: "This page offers **real-time insights** into the availability and performance of our platforms."
