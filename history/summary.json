@@ -4,9 +4,9 @@
     "url": "https://jimpaul.ng",
     "icon": "https://icons.duckduckgo.com/ip3/jimpaul.ng.ico",
     "slug": "jim-paul",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.28%",
@@ -16,6 +16,7 @@
     "timeMonth": 1026,
     "timeYear": 1081,
     "dailyMinutesDown": {
+      "2025-09-11": 1,
       "2025-09-09": 45,
       "2025-08-31": 15,
       "2025-08-04": 26,
@@ -29,7 +30,7 @@
     "url": "https://terrawattenergy.io",
     "icon": "https://icons.duckduckgo.com/ip3/terrawattenergy.io.ico",
     "slug": "terrawatt-energy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
@@ -41,6 +42,7 @@
     "timeMonth": 846,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2025-09-11": 0,
       "2025-09-09": 45,
       "2025-08-04": 26
     }
