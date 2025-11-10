@@ -7,6 +7,8 @@ sites:
     url: https://jimpaul.ng
   - name: Terrawatt Energy
     url: https://terrawattenergy.io
+  - name: Quantumica
+    url: https://quantumica.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,7 +17,7 @@ status-website:
   #baseUrl: /Upptime-Status
   logoUrl: https://raw.githubusercontent.com/Jim-Paul/Upptime-Status/refs/heads/master/assets/QUATUMICA%2002.png
   name: Quantumica Status Page
-  introTitle: "Welcome to the official status page for **Quantumica**, a forward-thinking company at the intersection of technology and energy."
+  introTitle: "Welcome to the official status page for **Quantumica**, a forward-thinking company at the intersection of technology, real-estate and energy."
   introMessage: "This page offers **real-time insights** into the availability and performance of our platforms."
 
   navbar:
