@@ -4,19 +4,19 @@
     "url": "https://jimpaul.ng",
     "icon": "https://icons.duckduckgo.com/ip3/jimpaul.ng.ico",
     "slug": "jim-paul",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "93.92%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "91.58%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "98.70%",
     "time": 1063,
-    "timeDay": 1113,
+    "timeDay": 1184,
     "timeWeek": 1012,
     "timeMonth": 1163,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2026-01-04": 100,
+      "2026-01-04": 101,
       "2026-01-03": 126,
       "2026-01-02": 110,
       "2026-01-01": 46,
@@ -55,7 +55,7 @@
       "2025-11-27": 69,
       "2025-11-26": 16,
       "2025-11-25": 9,
-      "2025-11-23": 24
+      "2025-11-23": 15
     }
   },
   {
@@ -63,19 +63,19 @@
     "url": "https://terrawattenergy.io",
     "icon": "https://icons.duckduckgo.com/ip3/terrawattenergy.io.ico",
     "slug": "terrawatt-energy",
-    "status": "up",
-    "uptime": "97.97%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "94.03%",
+    "status": "down",
+    "uptime": "97.98%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "94.02%",
     "uptimeMonth": "90.82%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.98%",
     "time": 896,
-    "timeDay": 792,
+    "timeDay": 821,
     "timeWeek": 797,
     "timeMonth": 841,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2026-01-04": 98,
+      "2026-01-04": 99,
       "2026-01-03": 125,
       "2026-01-02": 109,
       "2026-01-01": 45,
@@ -114,8 +114,7 @@
       "2025-11-27": 91,
       "2025-11-26": 15,
       "2025-11-25": 117,
-      "2025-11-24": 9,
-      "2025-11-23": 14
+      "2025-11-24": 9
     }
   },
   {
@@ -123,14 +122,14 @@
     "url": "https://quantumica.io",
     "icon": "https://icons.duckduckgo.com/ip3/quantumica.io.ico",
     "slug": "quantumica",
-    "status": "up",
-    "uptime": "95.96%",
-    "uptimeDay": "88.88%",
+    "status": "down",
+    "uptime": "95.98%",
+    "uptimeDay": "92.04%",
     "uptimeWeek": "94.13%",
     "uptimeMonth": "93.95%",
-    "uptimeYear": "95.96%",
+    "uptimeYear": "95.98%",
     "time": 940,
-    "timeDay": 784,
+    "timeDay": 831,
     "timeWeek": 823,
     "timeMonth": 887,
     "timeYear": 940,
@@ -175,7 +174,7 @@
       "2025-11-26": 15,
       "2025-11-25": 177,
       "2025-11-24": 15,
-      "2025-11-23": 22
+      "2025-11-23": 14
     }
   }
 ]
