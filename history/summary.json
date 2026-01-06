@@ -4,19 +4,19 @@
     "url": "https://jimpaul.ng",
     "icon": "https://icons.duckduckgo.com/ip3/jimpaul.ng.ico",
     "slug": "jim-paul",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "91.85%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "98.67%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "93.74%",
+    "uptimeYear": "98.70%",
     "time": 1060,
     "timeDay": 926,
-    "timeWeek": 996,
-    "timeMonth": 1160,
+    "timeWeek": 991,
+    "timeMonth": 1142,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2026-01-06": 53,
+      "2026-01-06": 54,
       "2026-01-05": 150,
       "2026-01-04": 160,
       "2026-01-03": 126,
@@ -51,8 +51,7 @@
       "2025-12-03": 37,
       "2025-12-02": 27,
       "2025-12-01": 10,
-      "2025-11-30": 129,
-      "2025-11-29": 7
+      "2025-11-30": 64
     }
   },
   {
@@ -60,19 +59,19 @@
     "url": "https://terrawattenergy.io",
     "icon": "https://icons.duckduckgo.com/ip3/terrawattenergy.io.ico",
     "slug": "terrawatt-energy",
-    "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "91.99%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "97.99%",
+    "status": "down",
+    "uptime": "98.00%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "90.74%",
+    "uptimeYear": "98.00%",
     "time": 892,
     "timeDay": 772,
-    "timeWeek": 784,
-    "timeMonth": 838,
+    "timeWeek": 774,
+    "timeMonth": 833,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2026-01-06": 52,
+      "2026-01-06": 53,
       "2026-01-05": 149,
       "2026-01-04": 158,
       "2026-01-03": 125,
@@ -109,7 +108,7 @@
       "2025-12-01": 9,
       "2025-11-30": 126,
       "2025-11-29": 30,
-      "2025-11-28": 42
+      "2025-11-28": 21
     }
   },
   {
@@ -117,16 +116,16 @@
     "url": "https://quantumica.io",
     "icon": "https://icons.duckduckgo.com/ip3/quantumica.io.ico",
     "slug": "quantumica",
-    "status": "up",
-    "uptime": "96.16%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "96.16%",
+    "status": "down",
+    "uptime": "96.21%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "96.21%",
     "time": 936,
     "timeDay": 828,
-    "timeWeek": 843,
-    "timeMonth": 888,
+    "timeWeek": 828,
+    "timeMonth": 875,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2026-01-06": 51,
@@ -165,8 +164,7 @@
       "2025-12-02": 25,
       "2025-12-01": 9,
       "2025-11-30": 125,
-      "2025-11-29": 6,
-      "2025-11-28": 21
+      "2025-11-29": 6
     }
   }
 ]
