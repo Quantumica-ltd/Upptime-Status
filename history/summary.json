@@ -4,18 +4,19 @@
     "url": "https://jimpaul.ng",
     "icon": "https://icons.duckduckgo.com/ip3/jimpaul.ng.ico",
     "slug": "jim-paul",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "90.87%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "98.96%",
     "time": 1067,
     "timeDay": 871,
-    "timeWeek": 952,
-    "timeMonth": 1079,
+    "timeWeek": 966,
+    "timeMonth": 1081,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2026-02-06": 1,
       "2026-02-05": 94,
       "2026-02-04": 27,
       "2026-02-03": 63,
@@ -46,8 +47,7 @@
       "2026-01-07": 212,
       "2026-01-06": 126,
       "2026-01-05": 150,
-      "2026-01-04": 160,
-      "2026-01-03": 20
+      "2026-01-04": 160
     }
   },
   {
@@ -55,18 +55,19 @@
     "url": "https://terrawattenergy.io",
     "icon": "https://icons.duckduckgo.com/ip3/terrawattenergy.io.ico",
     "slug": "terrawatt-energy",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "90.97%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "98.92%",
     "time": 848,
     "timeDay": 693,
-    "timeWeek": 716,
-    "timeMonth": 733,
+    "timeWeek": 722,
+    "timeMonth": 732,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2026-02-06": 1,
       "2026-02-05": 93,
       "2026-02-04": 27,
       "2026-02-03": 62,
@@ -97,8 +98,7 @@
       "2026-01-07": 210,
       "2026-01-06": 123,
       "2026-01-05": 149,
-      "2026-01-04": 158,
-      "2026-01-03": 20
+      "2026-01-04": 158
     }
   },
   {
@@ -106,18 +106,19 @@
     "url": "https://quantumica.io",
     "icon": "https://icons.duckduckgo.com/ip3/quantumica.io.ico",
     "slug": "quantumica",
-    "status": "up",
-    "uptime": "97.70%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "90.77%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "97.70%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "91.07%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "97.72%",
     "time": 869,
     "timeDay": 672,
-    "timeWeek": 736,
-    "timeMonth": 757,
+    "timeWeek": 740,
+    "timeMonth": 755,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2026-02-06": 0,
       "2026-02-05": 92,
       "2026-02-04": 26,
       "2026-02-03": 61,
@@ -148,8 +149,7 @@
       "2026-01-07": 209,
       "2026-01-06": 122,
       "2026-01-05": 146,
-      "2026-01-04": 151,
-      "2026-01-03": 19
+      "2026-01-04": 151
     }
   }
 ]
